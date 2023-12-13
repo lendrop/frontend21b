@@ -1,4 +1,4 @@
-const URL = "http://localhost:3000/pessoas/"
+const URL = "https://bancolendro.onrender.com/pessoas"
 
 var idPessoa = null
 lerParametros()
